@@ -54,6 +54,7 @@
         "tiles": [
           { "id": "overlay_mutation_eye_pink", "fg": 2 },
           { "id": "overlay_mutation_eye_black", "fg": 2 },
+          { "id": "overlay_mutation_eye_orange", "fg": 2 },
           { "id": "overlay_mutation_eye_white", "fg": 2 }
         ]
       }
