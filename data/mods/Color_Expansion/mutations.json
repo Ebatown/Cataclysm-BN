@@ -262,7 +262,7 @@
         ],
         "order": 1100
       },
-      { "id": [ "eye_pink", "eye_white", "eye_black" ], "order": 1200 }
+      { "id": [ "eye_pink", "eye_orange", "eye_white", "eye_black" ], "order": 1200 }
     ]
   }
 ]
